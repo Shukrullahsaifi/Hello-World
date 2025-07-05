@@ -1,2 +1,2 @@
-# Repository-for-practice
+# Hello World
 This is only for practice of GitHub workflow
